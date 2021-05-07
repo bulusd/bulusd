@@ -1,16 +1,19 @@
-### Hi there 👋
+Daniel Bulus
 
-<!--
-**bulusd/bulusd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project #1
 
-Here are some ideas to get you started:
+https://github.com/bulusd/Project1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Description: Pinging tool to keep track of different equipments in my netwrok.
+
+Project #2
+
+https://github.com/bulusd/Project2
+
+Description: Three Python programs that demonstrates the implementation of NLP, Prettytable and Pillow libraries. 
+
+Project #3
+
+https://github.com/bulusd/Project3
+
+Description: Appointment scheduling calendar that books a specific date and the record with the name, phone number,age and comment would be saved.
